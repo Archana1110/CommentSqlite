@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f05d33</color>
+    <color name="colorPrimaryDark">#f05d33</color>
+    <color name="colorAccent">#f05d33</color>
+    <color name="msg_no_comment">#999</color>
+    <color name="hint_enter_comment">#89c3c3c3</color>
+    <color name="timestamp">#858585</color>
+    <color name="comment_list_text">#232323</color>
+</resources>
